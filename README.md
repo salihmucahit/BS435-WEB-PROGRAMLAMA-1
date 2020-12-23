@@ -10,7 +10,7 @@ Erciyes Üniversitesi Bilgisayar Mühendisliği Bölümü
 
 ### https://salihmucahit.github.io/BS435-WEB-PROGRAMLAMA-1/
 
-# Not: Özgeçmiş bölümü Vanguard sayfasında. Normalde sayfaya yönlendiriyor ama Github'da çalışmadı. O yüzden  
+# Not: Özgeçmiş bölümü Vanguard sayfasında. 
 https://salihmucahit.github.io/BS435-WEB-PROGRAMLAMA-1/vanguard   sayfasına takılayıp gidebilirsiniz.
 
 # Dosyalar
