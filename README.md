@@ -18,18 +18,18 @@ index.html
 vanguard.html
 car.html
 
-Kullanılan Araçlar
+# Kullanılan Araçlar
 HTML5
 CSS3
 Javascript
 Jquery
 
-Kullanılan Yazılımlar
+# Kullanılan Yazılımlar
 VSCode
 WebStorm
 Notepad++
 
-Kullanılan Yöntemler
+# Kullanılan Yöntemler
 Tasarım sistemleri
 GraphQL
 CI/CD
