@@ -4,9 +4,9 @@
 
 BS435 Web Programlama 1 Dersi Vize Ödevi
 Erciyes Üniversitesi Bilgisayar Mühendisliği Bölümü
-Tasarlayan: Muhammed Salih Mücahit 
-No: 1030516688
-Öğretim Üyesi: Dr. Fehim KÖYLÜ
+# Tasarlayan: Muhammed Salih Mücahit 
+# No: 1030516688
+# Öğretim Üyesi: Dr. Fehim KÖYLÜ
 
 ### https://salihmucahit.github.io/BS435-WEB-PROGRAMLAMA-1/
 
